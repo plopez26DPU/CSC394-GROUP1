@@ -1,4 +1,4 @@
-# Research Brief - Travel Planner
+# Research Brief - Travel Management
 
 ## Authors
 Aayushi Lagdiwala
@@ -10,10 +10,10 @@ Pascual Lopez
 
 *March 7th, 2023*
 
-# 1.0 |~~| Background Information
+# 1.0 ✈️ Background Information
 
 ## Research a business.
-* Travel Planning Industry
+* Travel Management Industry
 
 ### Describe the business
 ### Describe the owners of the business (if applicable).
@@ -25,12 +25,11 @@ Pascual Lopez
 ### What problems do these businesses run into?
 ### Additional Information.
 
-* [ ] [smartpoint](https://www.travelport.com/products/smartpoint-cloud)
 
-# 2.0 |~~| User Research
+# 2.0 ✈️ User Research
 * Starting understanding some of the main actors / people that exist in this problem domain or business ecosystem.
 
-# 3.0 |~~| Problem Research
+# 3.0 ✈️ Problem Research
 * Research and categorize at least 3 different problems that a user at this business world would experience.
 
 ## Research a problem domain.
