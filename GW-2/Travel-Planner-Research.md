@@ -1,4 +1,4 @@
-# Research Brief - Travel Management
+# Research Brief - Travel Planning
 
 ## Authors
 Aayushi Lagdiwala
@@ -13,10 +13,14 @@ Pascual Lopez
 # 1.0 ✈️ Background Information
 
 ## Research a business.
-* Travel Management Industry
+* Travel Planning Industry
 
-### Describe the business
+### Describe the business.
+The travel planning industry can consist of several different avenues that come with services that either help businesses or individuals plan and coordinate their travel arrangements. These services can include from booking flights, hotels, and rental cars. Some travel planning companies cater to specific requirements and types of travel, such as luxury with [Black Tomato](https://www.blacktomato.com/us/) or adventure destinations with [G Adventures](https://www.gadventures.com/), family vacations with [Tauck](https://www.tauck.com/tours-and-cruises/family-travel) or business travel with [Travel Perk](https://www.travelperk.com/) while some offer something for the average individual looking to just travel such as [Wanderlog](https://wanderlog.com/).  
+
 ### Describe the owners of the business (if applicable).
+With a diverse plethora of options some impressive planners are: Tom Marchant (*Black Tomato*), Anita Voth & Bruce Poon Tip (*G Adventures*), Arthur Tauck, Jr. (*Tauck*), Avi Meir (*Travel Perk*) and Harry Yu & Peter Xu (*Wanderlog*).
+
 ### Describe the people employed by the business.
 ### Describe the organization chart.
 ### Describe the nature of the business. Are they a service business, retail.
