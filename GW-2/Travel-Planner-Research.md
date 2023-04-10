@@ -22,7 +22,11 @@ The travel planning industry can consist of several different avenues that come 
 With a diverse plethora of options some impressive planners are: Tom Marchant (*Black Tomato*), Anita Voth & Bruce Poon Tip (*G Adventures*), Arthur Tauck, Jr. (*Tauck*), Avi Meir (*Travel Perk*) and Harry Yu & Peter Xu (*Wanderlog*).
 
 ### Describe the people employed by the business.
+The type of individuals that are typically employed within the travel planning industry can be open-ended. When it comes to the technical side there are Software engineers, web developers, mobile app developers, UX/UI designers and data analysts. With respect to non-tech employment opportunities there are operations, managers, sales, account coordinators and dispute investigators. Senior leadership typically has senior executives, chief executive officers, chief financial officers, chief legal officers along with a potential travel leadership team.
+
 ### Describe the organization chart.
+With some of the niche providers we are using, some organizational charts are small, like [Wanderlog](https://wanderlog.com/) with a reported 10 employees. Within Wanderlog there is Harry Yu at the top with two people that report to him. Where [Travel Perk](https://www.travelperk.com/) has a reported 1,001 - 5,000 employees, we see Avi Meir is at the top of the organizational chart with 15 personnel below him, which all appear to be within senior management. 
+
 ### Describe the nature of the business. Are they a service business, retail.
 ### Try and find information about the market. How much money is spent on products or services on this type of business?
 ### Describe the competitors
