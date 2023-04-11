@@ -1,5 +1,8 @@
 # Welcome to *The Bomb Lab Diffusers* group
-![Bomb Boys](https://i.ytimg.com/vi/E_wLabP6gDw/hqdefault.jpg)
+
+<p align="center">
+  <img src="https://i.ytimg.com/vi/E_wLabP6gDw/hqdefault.jpg" />
+</p>
 
 ## Group Work Information
 
