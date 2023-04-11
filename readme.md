@@ -1,4 +1,4 @@
-# Welcome to group *The Bomb Lab Diffusers*
+# Welcome to *The Bomb Lab Diffusers* group
 ![Bomb Boys](https://i.ytimg.com/vi/E_wLabP6gDw/hqdefault.jpg)
 
 ## Group Work Information
