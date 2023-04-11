@@ -28,8 +28,18 @@ The type of individuals that are typically employed within the travel planning i
 With some of the niche providers we are using, some organizational charts are small, like [Wanderlog](https://wanderlog.com/) with a reported 10 employees. Within Wanderlog there is Harry Yu at the top with two people that report to him. Where [Travel Perk](https://www.travelperk.com/) has a reported 1,001 - 5,000 employees, we see Avi Meir is at the top of the organizational chart with 15 personnel below him, which all appear to be within senior management. 
 
 ### Describe the nature of the business. Are they a service business, retail.
+The businesses are considered a service business with a dedication of services to travel. These services can be used for either business or leisure, which makes this type of business rather lucrative. The main processes for any travel planning business would be arranging and organizing itineraries, booking flights and hotels , etc. The main focus would be aiming at making the travel experience more enjoyable and efficient.
+
 ### Try and find information about the market. How much money is spent on products or services on this type of business?
+The market obviously took a major hit with the COVID-19 pandemic in 2020, where travel was restricted drastically. With the recent changes in travel within the last few years we are looking at a major increase of travel within 2023, surpassing the year previous. Roughly the market appears to be a total size of 475 billion U.S. dollars in 2022. Forecasts are anticipating that 2023 will surpass 521 billion U.S. dollars in 2023, hitting one trillion by 2030.  
+The source of market information from [Statista](https://www.statista.com/statistics/1179020/online-travel-agent-market-size-worldwide/).
+
+There can be major overhead for a travel planning business such as, websites, social media, advertising, marketing programs and promotions, sales events, trade shows, etc. There is roughly a start-up cost of about $43,000 U.S. dollars for an online travel business, depending on how robust you would want you application(s). 
+This information can be viewed on [Onix](https://onix-systems.com/blog/what-does-it-cost-to-start-a-travel-business-online)
+
 ### Describe the competitors
+Competitors within the realm of travel planning has been expanded to more than just professionals with the advancements of the internet. Some travel planning agencies can be one person that plans and does everything, while some operations can have several thousand different employees. With the difference in the availability of cost per service, this can present a dangerous possibility of a saturated market.
+
 ### What problems do these businesses run into?
 ### Additional Information.
 
