@@ -70,23 +70,23 @@ https://www.bls.gov/oes/current/naics4_561500.htm
 
 
 
-###Describe the problem.
+### Describe the problem.
 Plane ticket prices have skyrocketed over the last several years which makes traveling for the general population much more difficult. 
 ###Who has this problem?
 Travelers below upper-middle class.
-###How would you categorize this person?
+### How would you categorize this person?
 Those impacted can be broadly categorized as consumers; particularly those who do not have the financial means to travel quickly by plane. 
-###How pervasive is this problem?
+### How pervasive is this problem?
 Since the beginning of the COVID-19 pandemic, flights have increased by at least 17%. This affects everyone who travels via plane. 
 Source: https://thriftytraveler.com/guides/travel/why-are-flights-so-expensive-right-now/
 Source: https://www.nerdwallet.com/article/travel/travel-price-tracker
 
-###What is the impact of this problem?
+### What is the impact of this problem?
 The impact of this problem affects how people spend their money outside of their state/city.
-###Do other solutions exist to solve this problem?
+### Do other solutions exist to solve this problem?
 Driving has become a preference among travelers due to ticket prices and dealing with airlines/airports
 Source:https://www.newsweek.com/fed-air-travel-americans-are-choosing-drive-instead-fly-1760487#:~:text=Almost%20two%2Dthirds%20of%20travelers,of%20dealing%20with%20an%20airport.
 
-###Describe these solutions.
-###Describe the companies who create these solutions.
+### Describe these solutions.
+### Describe the companies who create these solutions.
 
