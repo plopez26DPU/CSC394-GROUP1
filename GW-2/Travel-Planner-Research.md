@@ -72,7 +72,7 @@ https://www.bls.gov/oes/current/naics4_561500.htm
 
 ### Describe the problem.
 Plane ticket prices have skyrocketed over the last several years which makes traveling for the general population much more difficult. 
-###Who has this problem?
+### Who has this problem?
 Travelers below upper-middle class.
 ### How would you categorize this person?
 Those impacted can be broadly categorized as consumers; particularly those who do not have the financial means to travel quickly by plane. 
